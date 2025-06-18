@@ -1,0 +1,17 @@
+body {
+    background-color: #305050;
+    color: #fff;
+}
+
+h2 {
+    color: orange;
+}
+
+.texto-ingles {
+    font-style:italic;
+}
+
+#nome {
+    font-weight: bold;
+    color: orangered;
+}
